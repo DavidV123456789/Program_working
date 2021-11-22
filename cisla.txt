@@ -1,0 +1,4 @@
+Vygenerovane cislo:
+ 4 1 0 5 
+Druhe cislo:
+ 6 9 10 5 
